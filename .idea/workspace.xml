@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7ab1a8c-867a-4d02-b5f4-98ef58ec77b7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2gsLr7SmWpnkDp2J9pOw2qQ4QAB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Desafio004.executor": "Run",
+    "Python.Desafio010.executor": "Run",
+    "Python.aula06a.executor": "Run",
+    "Python.aula07a.executor": "Run",
+    "Python.aula08a.executor": "Run",
+    "Python.aula09.executor": "Run",
+    "Python.aula10.executor": "Run",
+    "Python.aula11.executor": "Run",
+    "Python.aula12.executor": "Run",
+    "Python.aula13.executor": "Run",
+    "Python.aula14.executor": "Run",
+    "Python.aula15.executor": "Run",
+    "Python.aula16.executor": "Run",
+    "Python.aula17.executor": "Run",
+    "Python.aula6b.executor": "Run",
+    "Python.desafio001.executor": "Run",
+    "Python.desafio005.executor": "Run",
+    "Python.desafio006.executor": "Run",
+    "Python.desafio007.executor": "Run",
+    "Python.desafio008.executor": "Run",
+    "Python.desafio009.executor": "Run",
+    "Python.desafio011.executor": "Run",
+    "Python.desafio012.executor": "Run",
+    "Python.desafio013.executor": "Run",
+    "Python.desafio014.executor": "Run",
+    "Python.desafio015.executor": "Run",
+    "Python.desafio016.executor": "Run",
+    "Python.desafio017.executor": "Run",
+    "Python.desafio018.executor": "Run",
+    "Python.desafio019.executor": "Run",
+    "Python.desafio020.executor": "Run",
+    "Python.desafio021.executor": "Run",
+    "Python.ex000.executor": "Run",
+    "Python.ex001.executor": "Run",
+    "Python.ex22.executor": "Run",
+    "Python.ex23.executor": "Run",
+    "Python.ex24.executor": "Run",
+    "Python.ex25.executor": "Run",
+    "Python.ex26.executor": "Run",
+    "Python.ex27.executor": "Run",
+    "Python.ex28.executor": "Run",
+    "Python.ex29.executor": "Run",
+    "Python.ex30.executor": "Run",
+    "Python.ex31.executor": "Run",
+    "Python.ex32.executor": "Run",
+    "Python.ex33.executor": "Run",
+    "Python.ex34.executor": "Run",
+    "Python.ex35.executor": "Run",
+    "Python.ex36.executor": "Run",
+    "Python.ex37.executor": "Run",
+    "Python.ex38.executor": "Run",
+    "Python.ex39.executor": "Run",
+    "Python.ex40.executor": "Run",
+    "Python.ex41.executor": "Run",
+    "Python.ex42.executor": "Run",
+    "Python.ex43-indiceMassaCorporal.executor": "Run",
+    "Python.ex44.executor": "Run",
+    "Python.ex45-GAME.executor": "Run",
+    "Python.ex46.executor": "Run",
+    "Python.ex47.executor": "Run",
+    "Python.ex48.executor": "Run",
+    "Python.ex49.executor": "Run",
+    "Python.ex50.executor": "Run",
+    "Python.ex51.executor": "Run",
+    "Python.ex52.executor": "Run",
+    "Python.ex53.executor": "Run",
+    "Python.ex54.executor": "Run",
+    "Python.ex55.executor": "Run",
+    "Python.ex56.executor": "Run",
+    "Python.ex57.executor": "Run",
+    "Python.ex58.executor": "Run",
+    "Python.ex59.executor": "Run",
+    "Python.ex60.executor": "Run",
+    "Python.ex61.executor": "Run",
+    "Python.ex62.executor": "Run",
+    "Python.ex63.executor": "Run",
+    "Python.ex64.executor": "Run",
+    "Python.ex65.executor": "Run",
+    "Python.ex66.executor": "Run",
+    "Python.ex67.executor": "Run",
+    "Python.ex68.executor": "Run",
+    "Python.ex69.executor": "Run",
+    "Python.ex70.executor": "Run",
+    "Python.ex71.executor": "Run",
+    "Python.ex72.executor": "Run",
+    "Python.ex73.executor": "Run",
+    "Python.ex74.executor": "Run",
+    "Python.ex75.executor": "Run",
+    "Python.ex76.executor": "Run",
+    "Python.ex77.executor": "Run",
+    "Python.ex78.executor": "Run",
+    "Python.ex79.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/bruna/PycharmProjects/CursoEmVideo/pythonProject/Desafios",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bruna\PycharmProjects\CursoEmVideo\pythonProject\Desafios" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bruna\PycharmProjects\CursoEmVideo\pythonProject\Exercicios" />
+      <recent name="C:\Users\bruna\PycharmProjects\CursoEmVideo\pythonProject\Desafios" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7ab1a8c-867a-4d02-b5f4-98ef58ec77b7" name="Changes" comment="" />
+      <created>1716481534396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716481534396</updated>
+    </task>
+    <servers />
+  </component>
+</project>
