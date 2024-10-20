@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7ab1a8c-867a-4d02-b5f4-98ef58ec77b7" name="Changes" comment="" />
+    <list default="true" id="b7ab1a8c-867a-4d02-b5f4-98ef58ec77b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex80.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex81.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex82.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,6 +127,9 @@
     "Python.ex77.executor": "Run",
     "Python.ex78.executor": "Run",
     "Python.ex79.executor": "Run",
+    "Python.ex80.executor": "Run",
+    "Python.ex81.executor": "Run",
+    "Python.ex82.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/bruna/PycharmProjects/CursoEmVideo/pythonProject/Desafios",
