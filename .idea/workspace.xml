@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7ab1a8c-867a-4d02-b5f4-98ef58ec77b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercicios/ex88.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/ex89.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/ex90.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testes/aula19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex91.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -141,6 +138,7 @@
     "Python.ex88.executor": "Run",
     "Python.ex89.executor": "Run",
     "Python.ex90.executor": "Run",
+    "Python.ex91.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/bruna/PycharmProjects/CursoEmVideo/pythonProject/Desafios",
