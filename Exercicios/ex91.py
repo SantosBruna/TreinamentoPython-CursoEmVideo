@@ -15,7 +15,7 @@ for k, v in jogadores.items():
     print(f'{k} tirou {v} no dado.')
     sleep(1)
 
-jogadores_ordenados = {chave: jogadores[chave] for chave in sorted(jogadores, key=itemgetter(1), reverse=True)}
+jogadores_ordenados = {chave: valor for chave, valor in sorted(jogadores.items(), key=itemgetter(1), reverse=True)}
 cont = 1
 print('-='*30)
 print('==RANKING DOS JOGADORES==')
