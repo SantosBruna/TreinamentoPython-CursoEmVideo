@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7ab1a8c-867a-4d02-b5f4-98ef58ec77b7" name="Changes" comment="" />
+    <list default="true" id="b7ab1a8c-867a-4d02-b5f4-98ef58ec77b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex94.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testes/aula20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/ex92.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/ex92.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/ex93.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/ex93.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testes/ex94.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/ex95.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +53,7 @@
     "Python.aula17.executor": "Run",
     "Python.aula18.executor": "Run",
     "Python.aula19.executor": "Run",
+    "Python.aula20.executor": "Run",
     "Python.aula6b.executor": "Run",
     "Python.desafio001.executor": "Run",
     "Python.desafio005.executor": "Run",
@@ -136,6 +144,10 @@
     "Python.ex89.executor": "Run",
     "Python.ex90.executor": "Run",
     "Python.ex91.executor": "Run",
+    "Python.ex92.executor": "Run",
+    "Python.ex93.executor": "Run",
+    "Python.ex94.executor": "Run",
+    "Python.ex95.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/bruna/PycharmProjects/CursoEmVideo/pythonProject/Desafios",
@@ -147,6 +159,7 @@
       <recent name="C:\Users\bruna\PycharmProjects\CursoEmVideo\pythonProject\Desafios" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bruna\OneDrive\Documentos\Projects\TreinamentoPython-CursoEmVideo\Exercicios" />
       <recent name="C:\Users\bruna\PycharmProjects\CursoEmVideo\pythonProject\Exercicios" />
       <recent name="C:\Users\bruna\PycharmProjects\CursoEmVideo\pythonProject\Desafios" />
     </key>
