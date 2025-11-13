@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7ab1a8c-867a-4d02-b5f4-98ef58ec77b7" name="Changes" comment="" />
+    <list default="true" id="b7ab1a8c-867a-4d02-b5f4-98ef58ec77b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex103.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex98.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex99.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testes/aula21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +42,7 @@
   "keyToString": {
     "Python.Desafio004.executor": "Run",
     "Python.Desafio010.executor": "Run",
+    "Python.adaLovelance.executor": "Run",
     "Python.aula06a.executor": "Run",
     "Python.aula07a.executor": "Run",
     "Python.aula08a.executor": "Run",
@@ -67,6 +78,11 @@
     "Python.desafio021.executor": "Run",
     "Python.ex000.executor": "Run",
     "Python.ex001.executor": "Run",
+    "Python.ex100.executor": "Run",
+    "Python.ex101.executor": "Run",
+    "Python.ex102.executor": "Run",
+    "Python.ex103.executor": "Run",
+    "Python.ex104.executor": "Run",
     "Python.ex22.executor": "Run",
     "Python.ex23.executor": "Run",
     "Python.ex24.executor": "Run",
@@ -141,6 +157,10 @@
     "Python.ex93.executor": "Run",
     "Python.ex94.executor": "Run",
     "Python.ex95.executor": "Run",
+    "Python.ex96.executor": "Run",
+    "Python.ex97.executor": "Run",
+    "Python.ex98.executor": "Run",
+    "Python.ex99.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/bruna/PycharmProjects/CursoEmVideo/pythonProject/Desafios",
