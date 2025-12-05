@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7ab1a8c-867a-4d02-b5f4-98ef58ec77b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercicios/ex100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/ex101.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/ex102.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/ex103.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/ex104.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/ex98.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/ex99.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testes/aula21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex107/ex107.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex108/ex108.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex109/ex109.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex110/ex110.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/utilidadesCeV/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/utilidadesCeV/dado/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/utilidadesCeV/ex111.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/utilidadesCeV/ex112.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/utilidadesCeV/moeda/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +43,7 @@
   "keyToString": {
     "Python.Desafio004.executor": "Run",
     "Python.Desafio010.executor": "Run",
+    "Python.__init__.executor": "Run",
     "Python.adaLovelance.executor": "Run",
     "Python.aula06a.executor": "Run",
     "Python.aula07a.executor": "Run",
@@ -83,6 +85,12 @@
     "Python.ex102.executor": "Run",
     "Python.ex103.executor": "Run",
     "Python.ex104.executor": "Run",
+    "Python.ex105.executor": "Run",
+    "Python.ex107.executor": "Run",
+    "Python.ex108.executor": "Run",
+    "Python.ex109.executor": "Run",
+    "Python.ex110.executor": "Run",
+    "Python.ex112.executor": "Run",
     "Python.ex22.executor": "Run",
     "Python.ex23.executor": "Run",
     "Python.ex24.executor": "Run",
@@ -161,14 +169,19 @@
     "Python.ex97.executor": "Run",
     "Python.ex98.executor": "Run",
     "Python.ex99.executor": "Run",
+    "Python.exe106.executor": "Run",
+    "Python.moeda.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/bruna/PycharmProjects/CursoEmVideo/pythonProject/Desafios",
+    "last_opened_file_path": "C:/Users/bruna/OneDrive/Documentos/Projects/TreinamentoPython-CursoEmVideo/Exercicios/utilidadesCeV",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bruna\OneDrive\Documentos\Projects\TreinamentoPython-CursoEmVideo\Exercicios\utilidadesCeV" />
+      <recent name="C:\Users\bruna\OneDrive\Documentos\Projects\TreinamentoPython-CursoEmVideo\Exercicios" />
+      <recent name="C:\Users\bruna\OneDrive\Documentos\Projects\TreinamentoPython-CursoEmVideo\Exercicios\ex108" />
       <recent name="C:\Users\bruna\PycharmProjects\CursoEmVideo\pythonProject\Desafios" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
